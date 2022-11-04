@@ -22,19 +22,19 @@ const Header = () => {
             ) : (
                 <ul className="header-menu">
                     <li>
-                        <link>Trang Chủ</link>
+                        <a>Trang Chủ</a>
                     </li>
                     <li>
-                        <link>Chế Độ Tập</link>
+                        <a>Chế Độ Tập</a>
                     </li>
                     <li>
-                        <link>Tại sao là chúng tôi</link>
+                        <a>Tại sao là chúng tôi</a>
                     </li>
                     <li>
-                        <link>Các Kế hoạch</link>
+                        <a>Các Kế hoạch</a>
                     </li>
                     <li>
-                        <link>Lời chứng thực</link>
+                        <a>Lời chứng thực</a>
                     </li>
                 </ul>
             )}
